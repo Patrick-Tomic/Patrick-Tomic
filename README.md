@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick-Tomic
 - 👀 I’m interested in music, coding, reading, planting and learning every day
-- 🌱 I’m currently learning currently looking at javascript and typescript. Working with C++ whenever I can fit it.
+- 🌱 I’m currently looking at javascript and typescript. Working with C++ whenever I can fit it.
 - 💞️ I’m looking to collaborate on nothing currently!
 - 📫 How to reach me send me a direct message or email me @ pat12tomic on Gmail.
 
