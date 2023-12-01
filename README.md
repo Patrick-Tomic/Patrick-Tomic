@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Patrick-Tomic
 - 👀 I’m interested in music, coding, reading, planting and learning every day
 - 🌱 I’m currently looking at javascript and typescript. Working with C++ whenever I can fit it.
-- 💞️ I’m looking to collaborate on nothing currently!
-- 📫 How to reach me send me a direct message or email me @ pat12tomic on Gmail.
+- 💞️ I would collaborate on something
+- 📫 How to reach me, shoot me a text at (727) 359 3054 or a email @ pat12tomic@gmail.com
 
 <!---
 Patrick-Tomic/Patrick-Tomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
