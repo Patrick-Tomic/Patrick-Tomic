@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick-Tomic
 - 👀 I’m interested in music, coding, reading, planting and learning every day
-- 🌱 I’m currently looking at javascript and typescript. Working with React and looking forward to Node.js and React Native so I can build Mobile apps.
+- 🌱 I’m currently looking into Ruby, and cant wait to get into rails. Most likely will start to learn react native afterwards
 - 💞️ I would collaborate on something
 - 📫 How to reach me, shoot me a text at (727) 359 3054 or a email @ pat12tomic@gmail.com
 
